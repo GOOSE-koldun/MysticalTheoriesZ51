@@ -109,7 +109,10 @@ main p {
 
 .konspirologi p {
     text-align: center;
-    margin-top: 150px
+}
+
+.konspirologi h2 {
+    text-align: center;
 }
 
 .konspirologi img {
