@@ -108,9 +108,9 @@ main p {
     transition: 0.2s ease-in;
 }
 
-.konspirologi h2 {
+.konspirologi p {
     text-align: center;
-    margin: 200px;
+    margin: 333px
 }
 
 .konspirologi img {
