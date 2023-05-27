@@ -71,6 +71,7 @@ main p {
     float: right;
     width: 700px;
     height: 400px;
+    margin-left: 200px;
 }
 
 .his1 img:hover {
