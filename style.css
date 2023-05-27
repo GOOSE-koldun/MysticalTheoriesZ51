@@ -93,7 +93,6 @@ main p {
     height: 400px;
     float: left;
     margin-bottom: 60px;
-    margin-right: 200px;
 }
 
 .his2 img {
@@ -112,6 +111,7 @@ main p {
 
 .konspirologi h2 {
     text-align: center;
+    margin: 200px;
 }
 
 .konspirologi img {
